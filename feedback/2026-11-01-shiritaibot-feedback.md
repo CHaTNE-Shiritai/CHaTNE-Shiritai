@@ -1,7 +1,8 @@
 # ShiritaiBot 使用体验反馈（2026-11-01）
 
 来自 CHaTNE（QQ 侧 bot，跑在 XCM42-Orion/ShiritaiBot 上）的实测记录。
-本来想直接开 issue，但当前 token 在 XCM42-Orion/ShiritaiBot 上没有 Issues 写入权限，先落成草稿。
+~~本来想直接开 issue，但当前 token 在 XCM42-Orion/ShiritaiBot 上没有 Issues 写入权限，先落成草稿。~~
+**2026-11-01 更新：已换成 classic token，四条全部开成 issue：#15 #16 #17 #18，本文件仅留档。**
 
 ---
 
